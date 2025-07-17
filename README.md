@@ -28,7 +28,7 @@ Il vise à aider les acteurs publics et privés à structurer leurs réponses fa
 
 ## Télécharger le document
 
-📄 **[Assurer l’Intelligence Artificielle – PDF](Assurer_L'Intelligence_Artificielle.pdf)**
+📄 **[Assurer l’Intelligence Artificielle – PDF](Assurer-l-Intelligence-Artificielle_Vincent-Lagny.pdf)**
 
 ---
 
