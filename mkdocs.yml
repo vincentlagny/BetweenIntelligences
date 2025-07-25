@@ -1,4 +1,71 @@
 site_name: Synthetic Horizons
 site_url: https://vincentlagny.github.io/assurance-IA/
+
 theme:
   name: material
+  language: fr
+
+plugins:
+  - search:
+      lang:
+        - fr
+        - en
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          default: true
+          build: true
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+  - macros
+  - tags
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      skip_classes:
+        - skip-lightbox
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
+  - awesome-pages    # Pour gérer l'ordre sans lister manuellement dans yml
+
+
+nav:
+  - Accueil: index.md
+  - Réflexions:
+      - Introduction: reflexions/index.md
+      - Chapitre 1: reflexions/chapitre-1.md
+      - Chapitre 2: reflexions/chapitre-2.md
+  - Publics:
+      - Introduction: publics/index.md
+      - Assureurs: publics/assureurs.md
+      - Décideurs: publics/decideurs.md
+      - Ingénieurs: publics/ingenieurs.md
+  - Travaux:
+      - Introduction: travaux/index.md
+      - Expérience 1: travaux/experience-1.md
+      - Expérience 1: travaux/experience-2.md
+  - Blog:
+      - blog/index.md
+  - Plus:
+      - À propos: about.md
+      - Contact: contact.md
+
+
+extra_css:
+  - assets/css/custom.css

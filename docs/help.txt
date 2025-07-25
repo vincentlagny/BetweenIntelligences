@@ -1,0 +1,4 @@
+mkdocs serve
+mkdocs build
+pip install mkdocs-i18n mkdocs-blog-plugin mkdocs-glightbox mkdocs-awesome-pages-plugin mkdocs-macros-plugin
+pip install mkdocs-static-i18n
