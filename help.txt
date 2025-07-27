@@ -1,0 +1,28 @@
+mkdocs serve
+mkdocs build
+
+source vproject/bin/activate
+
+pip install mkdocs
+pip install "mkdocs-material[all]"
+pip install mkdocs-i18n
+pip install mkdocs-static-i18n
+pip install mkdocs-macros-plugin
+pip install mkdocs-glightbox
+pip install mkdocs-awesome-pages-plugin
+pip install mkdocs-blog-plugin
+
+
+# Utiliser mkdocs globalement
+brew install mkdocs
+
+# Utiliser mkdocs dans un projet isolé Python
+python -m venv vproject
+source vproject/bin/activate
+pip install mkdocs
+
+# exit
+deactivate
+
+# .gitignore
+vproject/

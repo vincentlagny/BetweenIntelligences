@@ -1,4 +1,4 @@
-site_name: Synthetic Horizons
+site_name: Never Stop Dreaming Labs
 site_url: https://vincentlagny.github.io/assurance-IA/
 
 theme:
@@ -26,22 +26,7 @@ plugins:
       blog_toc: true
   - macros
   - tags
-  - glightbox:
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      slide_effect: slide
-      width: auto
-      height: auto
-      zoomable: true
-      draggable: true
-      skip_classes:
-        - skip-lightbox
-      auto_caption: false
-      caption_position: bottom
-      background: white
-      shadow: true
-      manual: false
+  - glightbox
   - awesome-pages    # Pour gérer l'ordre sans lister manuellement dans yml
 
 
@@ -59,13 +44,12 @@ nav:
   - Travaux:
       - Introduction: travaux/index.md
       - Expérience 1: travaux/experience-1.md
-      - Expérience 1: travaux/experience-2.md
+      - Expérience 2: travaux/experience-2.md
   - Blog:
       - blog/index.md
   - Plus:
       - À propos: about.md
       - Contact: contact.md
-
 
 extra_css:
   - assets/css/custom.css

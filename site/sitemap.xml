@@ -1,123 +1,199 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/about/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/about/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/about.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/contact/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/contact/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/about.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/contact.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/blog/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/blog/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/contact.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/publics/assureurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/assureurs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/assureurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/index.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/publics/decideurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/decideurs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/decideurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/index.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/publics/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/blog/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/publics/ingenieurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/ingenieurs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/ingenieurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/blog/index.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-1/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-1/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/blog/index.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-2/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-2/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/assureurs.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/reflexions/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/assureurs.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-1/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/experience-1/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/experience-1/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/decideurs.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-2/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/experience-2/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/experience-2/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/decideurs.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/travaux/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/index.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/about/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/about/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/about/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/index.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/contact/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/contact/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/ingenieurs.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/publics/ingenieurs.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/blog/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/blog/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/blog/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-1.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/publics/assureurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/assureurs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/assureurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-1.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/publics/decideurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/decideurs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/decideurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-2.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/publics/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-2.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/publics/ingenieurs/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/publics/ingenieurs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/publics/ingenieurs/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/index.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-1/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-1/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-1/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/reflexions/index.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-2/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/chapitre-2/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/chapitre-2/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-1.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/reflexions/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/reflexions/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/reflexions/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-1.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/travaux/experience-1/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/experience-1/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/experience-1/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-2.en/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/travaux/experience-2/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/experience-2/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/experience-2/"/>
     </url>
     <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/experience-2.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
-    </url>
-    <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/index.en/</loc>
-         <lastmod>2025-07-25</lastmod>
-    </url>
-    <url>
-         <loc>https://vincentlagny.github.io/assurance-IA/travaux/index.fr/</loc>
-         <lastmod>2025-07-25</lastmod>
+        <loc>https://vincentlagny.github.io/assurance-IA/en/travaux/</loc>
+        <lastmod>2025-07-27</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/assurance-IA/en/travaux/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/assurance-IA/travaux/"/>
     </url>
 </urlset>
