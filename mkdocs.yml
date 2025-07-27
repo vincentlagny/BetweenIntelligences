@@ -26,7 +26,6 @@ plugins:
       blog_toc: true
   - macros
   - tags
-  - glightbox
   - awesome-pages    # Pour gérer l'ordre sans lister manuellement dans yml
 
 
