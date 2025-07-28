@@ -1,5 +1,6 @@
 mkdocs serve
 mkdocs build
+mkdocs deploy
 
 source vproject/bin/activate
 

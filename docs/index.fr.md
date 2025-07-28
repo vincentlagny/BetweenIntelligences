@@ -1,4 +1,6 @@
-# Shaping Intelligence
+# Between Intelligences
+
+![nsdlabs-rect.png](./assets/banner/intro.png)
 
 ##  Pour un avenir maîtrisé des relations entre humains et Intelligence Artificielle
 
@@ -19,8 +21,6 @@ Si la perspective d’une intelligence supérieure peut nourrir nos rêves les p
 Plus que l’adoption de la technologie, comprendre son contexte, en maîtriser les risques, créer la confiance et aider les décideurs, sanctuariser un usage noble doit être une priorité à l’échelle de tous.
 
 C’est dans ce contexte d’incertitude, que je vous propose maintenant de développer les challenges d’aujourd’hui et de demain par le prisme des thématiques sociétales, sectorielles, philosophiques, religieuses, législatives, géopolitiques, sécuritaires, sociales, et juridiques.
-
-![nsdlabs-rect.png](./assets/banner/intro.png)
 
 ## Devenir acteur
 
