@@ -1,0 +1,38 @@
+.synth-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+    max-width: 90vmin;
+    margin: 2rem auto;
+}
+
+.synth-item {
+    display: block;
+    aspect-ratio: 1 / 1;
+    border-radius: 8px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    position: relative;
+    background: #eee; /* fallback en cas d’image manquante */
+}
+
+.synth-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.synth-item span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.85);
+    text-align: center;
+    font-weight: bold;
+    font-size: 1rem;
+    padding: 0.5rem;
+    border-top: 1px solid #ddd;
+}
