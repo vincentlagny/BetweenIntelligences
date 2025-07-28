@@ -1,6 +1,6 @@
 mkdocs serve
 mkdocs build
-mkdocs deploy
+mkdocs gh-deploy
 
 source vproject/bin/activate
 

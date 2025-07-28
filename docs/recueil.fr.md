@@ -14,4 +14,4 @@ Le recueil est désormais disponible en libre téléchargement. Il propose une e
 ---
 
 🔗 Le projet est également consultable et en évolution sur GitHub :  
-[github.com/vincentlagny/assurance-IA](https://github.com/vincentlagny/assurance-IA)
+[github.com/vincentlagny/BetweenIntelligences](https://github.com/vincentlagny/BetweenIntelligences)

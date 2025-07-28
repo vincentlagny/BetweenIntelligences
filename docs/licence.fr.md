@@ -19,4 +19,4 @@
 ---
 
 **Lien GitHub :**  
-[https://github.com/vincentlagny/assurance-IA/blob/main/Assurer-l-Intelligence-Artificielle_Vincent-Lagny.pdf](https://github.com/vincentlagny/assurance-IA/blob/main/Assurer-l-Intelligence-Artificielle_Vincent-Lagny.pdf)
+[https://github.com/vincentlagny/BetweenIntelligences/blob/main/Assurer-l-Intelligence-Artificielle_Vincent-Lagny.pdf](https://github.com/vincentlagny/assurance-IA/blob/main/Assurer-l-Intelligence-Artificielle_Vincent-Lagny.pdf)
