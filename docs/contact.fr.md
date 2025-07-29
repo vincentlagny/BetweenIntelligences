@@ -30,5 +30,3 @@ Si vous souhaitez prolonger ce travail, contribuer à sa suite, ou simplement é
 </tr>
 </table>
 
-## Never Stop Dreaming
-
