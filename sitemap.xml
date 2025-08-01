@@ -2,784 +2,812 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/CODE_OF_CONDUCT/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/CODE_OF_CONDUCT/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/CODE_OF_CONDUCT/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/contact/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contact/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contact/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/contribute/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contribute/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contribute/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/glossaire/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/glossaire/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/glossaire/"/>
-    </url>
-    <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/licence/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/about/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/licence/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/licence/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/about/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/nsdlabs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/contact/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/nsdlabs/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/nsdlabs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/contact/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/contact/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/recueil/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/glossaire/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/recueil/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/recueil/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/glossaire/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/glossaire/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/licence/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/licence/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/licence/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/about/nsdlabs/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/nsdlabs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/nsdlabs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/ingenieurs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/ingenieurs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/ingenieurs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/1.introduction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/1.introduction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/1.introduction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/10.juridique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/10.juridique/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/10.juridique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/11.androides/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/11.androides/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/11.androides/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/12.prediction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/12.prediction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/12.prediction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/14.prejudice/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/14.prejudice/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/14.prejudice/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/2.regions/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/2.regions/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/2.regions/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/3.axes/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/3.axes/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/3.axes/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/4.couvertures/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/4.couvertures/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/4.couvertures/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/5.ethique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/5.ethique/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/5.ethique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/6.legislation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/6.legislation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/6.legislation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/7.marchespublics/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/7.marchespublics/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/7.marchespublics/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/8.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/8.societe/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/8.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/9.cyber/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/9.cyber/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/9.cyber/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/1.cartographier/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/1.cartographier/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/1.cartographier/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/2.garantir/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/2.garantir/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/2.garantir/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/3.conseil/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/3.conseil/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/3.conseil/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/1.mustknow/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/1.mustknow/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/1.mustknow/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/2.procons/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/2.procons/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/2.procons/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/3.kit/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/3.kit/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/3.kit/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/4.cyber/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/4.cyber/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/4.cyber/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/1.industrie/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/1.industrie/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/1.industrie/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/2.consommation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/2.consommation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/2.consommation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/3.gouvernance/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/3.gouvernance/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/3.gouvernance/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/1.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/1.societe/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/1.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/2.secteurs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/2.secteurs/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/2.secteurs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/3.spirituel/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/3.spirituel/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/3.spirituel/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/4.legislation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/4.legislation/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/4.legislation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/5.geopolitique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/5.geopolitique/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/5.geopolitique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/6.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/6.societe/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/6.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/7.detournements/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/7.detournements/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/7.detournements/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/8.juridique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/8.juridique/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/8.juridique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/9.synthese/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/9.synthese/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/9.synthese/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/1.acceleration/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/1.acceleration/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/1.acceleration/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/2.androides/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/2.androides/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/2.androides/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/3.prediction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/3.prediction/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/3.prediction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/4.accountability/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/4.accountability/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/4.accountability/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/5.conscience/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/5.conscience/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/5.conscience/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/6.prejudice/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/6.prejudice/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/6.prejudice/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/1.croisement/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/1.croisement/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/1.croisement/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/2.assurantielle/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/2.assurantielle/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/2.assurantielle/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/3.prospective/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/3.prospective/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/3.prospective/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/4.operative/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/4.operative/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/4.operative/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/blog/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/contrib/contribute/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/blog/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/blog/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/contribute/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/contrib/recueil/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/recueil/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/recueil/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/contrib/updates/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/updates/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/updates/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/news/2025-08-01/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/2025-08-01/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/2025-08-01/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/news/blog/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/blog/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-1/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-1/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-1/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-2/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-2/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-2/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/travaux/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/CODE_OF_CONDUCT/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/CODE_OF_CONDUCT/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/CODE_OF_CONDUCT/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/contact/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contact/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contact/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/contribute/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contribute/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contribute/"/>
-    </url>
-    <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/glossaire/</loc>
-        <lastmod>2025-07-29</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/glossaire/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/glossaire/"/>
-    </url>
-    <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/licence/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/about/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/licence/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/licence/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/about/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/about/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/nsdlabs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/contact/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/nsdlabs/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/nsdlabs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/contact/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/contact/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/recueil/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/glossaire/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/recueil/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/recueil/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/glossaire/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/glossaire/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/licence/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/licence/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/licence/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/about/nsdlabs/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/about/nsdlabs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/about/nsdlabs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/ingenieurs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/ingenieurs/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/ingenieurs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/1.introduction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/1.introduction/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/1.introduction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/10.juridique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/10.juridique/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/10.juridique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/11.androides/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/11.androides/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/11.androides/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/12.prediction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/12.prediction/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/12.prediction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/14.prejudice/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/14.prejudice/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/14.prejudice/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/2.regions/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/2.regions/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/2.regions/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/3.axes/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/3.axes/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/3.axes/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/4.couvertures/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/4.couvertures/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/4.couvertures/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/5.ethique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/5.ethique/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/5.ethique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/6.legislation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/6.legislation/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/6.legislation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/7.marchespublics/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/7.marchespublics/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/7.marchespublics/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/8.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/8.societe/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/8.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/9.cyber/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/9.cyber/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/9.cyber/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/1.cartographier/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/1.cartographier/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/1.cartographier/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/2.garantir/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/2.garantir/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/2.garantir/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/3.conseil/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/assurances/action/3.conseil/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/assurances/action/3.conseil/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/1.mustknow/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/1.mustknow/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/1.mustknow/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/2.procons/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/2.procons/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/2.procons/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/3.kit/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/3.kit/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/3.kit/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/4.cyber/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/acteurs/dirigeants/4.cyber/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/acteurs/dirigeants/4.cyber/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/1.industrie/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/1.industrie/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/1.industrie/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/2.consommation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/2.consommation/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/2.consommation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/3.gouvernance/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/actuel/3.gouvernance/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/actuel/3.gouvernance/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/1.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/1.societe/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/1.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/2.secteurs/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/2.secteurs/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/2.secteurs/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/3.spirituel/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/3.spirituel/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/3.spirituel/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/4.legislation/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/4.legislation/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/4.legislation/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/5.geopolitique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/5.geopolitique/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/5.geopolitique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/6.societe/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/6.societe/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/6.societe/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/7.detournements/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/7.detournements/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/7.detournements/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/8.juridique/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/8.juridique/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/8.juridique/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/9.synthese/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/contexte/9.synthese/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/contexte/9.synthese/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/1.acceleration/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/1.acceleration/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/1.acceleration/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/2.androides/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/2.androides/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/2.androides/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/3.prediction/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/3.prediction/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/3.prediction/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/4.accountability/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/4.accountability/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/4.accountability/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/5.conscience/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/5.conscience/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/5.conscience/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/6.prejudice/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/evolutions/6.prejudice/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/evolutions/6.prejudice/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/1.croisement/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/1.croisement/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/1.croisement/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/2.assurantielle/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/2.assurantielle/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/2.assurantielle/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/3.prospective/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/3.prospective/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/3.prospective/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/4.operative/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/analyses/risques/4.operative/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/analyses/risques/4.operative/"/>
     </url>
     <url>
-        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/blog/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/contrib/contribute/</loc>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/blog/"/>
-        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/blog/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/contribute/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/contribute/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/contrib/recueil/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/recueil/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/recueil/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/contrib/updates/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/contrib/updates/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/contrib/updates/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/news/2025-08-01/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/2025-08-01/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/2025-08-01/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/news/blog/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/blog/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/blog/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-1/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-1/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-1/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-2/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-2/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-2/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/travaux/</loc>
-        <lastmod>2025-07-29</lastmod>
+        <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/"/>
