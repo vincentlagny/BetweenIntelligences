@@ -4,7 +4,7 @@
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>IA de 2025 et de demain</title>
-    <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/</link>
+    <link>https://vincentlagny.github.io/BetweenIntelligences/</link>
     <language>fr-fr</language>
     <copyright>© 2025 Vincent Lagny</copyright>
     <itunes:author>Vincent Lagny</itunes:author>
@@ -20,6 +20,7 @@
     
     <item>
       <title>IA 2025-2035 – Seconde Renaissance ou Risque Existentiel ?</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A1.html</link>
       <description>IA 2025-2035 – Seconde Renaissance ou Risque Existentiel ?</description>
       <itunes:summary>IA 2025-2035 – Seconde Renaissance ou Risque Existentiel ?</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A1.m4a" length="10000000" type="audio/mpeg" />
@@ -32,6 +33,7 @@
     
     <item>
       <title>IA en 2025 – Craintes Mondiales et Adoption Galopante</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A2.html</link>
       <description>IA en 2025 – Craintes Mondiales et Adoption Galopante</description>
       <itunes:summary>IA en 2025 – Craintes Mondiales et Adoption Galopante</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A2.m4a" length="10100000" type="audio/mpeg" />
@@ -44,6 +46,7 @@
     
     <item>
       <title>Éthique et Loi face à l’IA</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A3.html</link>
       <description>Éthique et Loi face à l’IA</description>
       <itunes:summary>Éthique et Loi face à l’IA</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A3.m4a" length="10200000" type="audio/mpeg" />
@@ -56,6 +59,7 @@
     
     <item>
       <title>IA – Basculement Géopolitique</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A4.html</link>
       <description>IA – Basculement Géopolitique</description>
       <itunes:summary>IA – Basculement Géopolitique</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A4.m4a" length="10300000" type="audio/mpeg" />
@@ -68,6 +72,7 @@
     
     <item>
       <title>Accélération de l’IA – ANI à ASI</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A5.html</link>
       <description>Accélération de l’IA – ANI à ASI</description>
       <itunes:summary>Accélération de l’IA – ANI à ASI</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A5.m4a" length="10400000" type="audio/mpeg" />
@@ -80,6 +85,7 @@
     
     <item>
       <title>IA de Demain – Fosse Social ou Fracture Cognitive ?</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A6.html</link>
       <description>IA de Demain – Fosse Social ou Fracture Cognitive ?</description>
       <itunes:summary>IA de Demain – Fosse Social ou Fracture Cognitive ?</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A6.m4a" length="10500000" type="audio/mpeg" />
@@ -92,6 +98,7 @@
     
     <item>
       <title>L’IA prend corps – Ère des Androïdes</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A7.html</link>
       <description>L’IA prend corps – Ère des Androïdes</description>
       <itunes:summary>L’IA prend corps – Ère des Androïdes</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A7.m4a" length="10600000" type="audio/mpeg" />
@@ -104,6 +111,7 @@
     
     <item>
       <title>Quand la Prédiction Atteint ses Limites</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A8.html</link>
       <description>Quand la Prédiction Atteint ses Limites</description>
       <itunes:summary>Quand la Prédiction Atteint ses Limites</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A8.m4a" length="10700000" type="audio/mpeg" />
@@ -116,6 +124,7 @@
     
     <item>
       <title>IA &amp; Conscience – Vertige des Machines et de l’Esprit</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A9.html</link>
       <description>IA &amp; Conscience – Vertige des Machines et de l’Esprit</description>
       <itunes:summary>IA &amp; Conscience – Vertige des Machines et de l’Esprit</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A9.m4a" length="10800000" type="audio/mpeg" />
@@ -128,6 +137,7 @@
     
     <item>
       <title>IA et Droit – De l’Outil à l’Acteur</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A10.html</link>
       <description>IA et Droit – De l’Outil à l’Acteur</description>
       <itunes:summary>IA et Droit – De l’Outil à l’Acteur</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A10.m4a" length="10900000" type="audio/mpeg" />
@@ -140,6 +150,7 @@
     
     <item>
       <title>Quand la Science-Fiction Anticipe les Cyber-menaces</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A11.html</link>
       <description>Quand la Science-Fiction Anticipe les Cyber-menaces</description>
       <itunes:summary>Quand la Science-Fiction Anticipe les Cyber-menaces</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A11.m4a" length="11000000" type="audio/mpeg" />
@@ -152,6 +163,7 @@
     
     <item>
       <title>IA 2025 et au-delà – Bilan et Futur</title>
+      <link>https://vincentlagny.github.io/BetweenIntelligences/podcasts/A12.html</link>
       <description>IA 2025 et au-delà – Bilan et Futur</description>
       <itunes:summary>IA 2025 et au-delà – Bilan et Futur</itunes:summary>
       <enclosure url="https://vincentlagny.github.io/BetweenIntelligences/podcasts/A12.m4a" length="11100000" type="audio/mpeg" />
