@@ -1,72 +1,26 @@
+## 🎧 Podcasts AI War – épisodes 1/8 & 3/8
 
-## 🎧 Podcast "AI War - 1/8"
+### Episode 1/8
+<div id="wf1" style="width:100%; height:96px; margin-bottom:8px; background:#f4f4f4;"></div>
+<div style="display:flex; align-items:center; gap:1em; margin-bottom:16px;">
+  <button id="btn1" style="padding:8px 16px;background:#1abc9c;color:white;border:none;border-radius:4px;cursor:pointer;">▶️ Lecture</button>
+  <span id="time1" style="font-family:monospace;color:#555;">00:00 / 00:00</span>
+</div>
 
-<div id="waveform" style="width: 100%; height: 96px; margin-bottom: 1em; background: #f4f4f4;"></div>
-<button id="playPause"
-        style="padding: 10px 16px; border: none; background-color: #1abc9c; color: white; border-radius: 4px; cursor: pointer;">
-  ▶️ Lecture
-</button>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const wavesurfer = WaveSurfer.create({
-      container: '#waveform',
-      waveColor: '#ddd',
-      progressColor: '#1abc9c',
-      height: 96,
-      responsive: true,
-      barWidth: 2,
-      cursorColor: '#333'
-    });
-
-    // 🔁 Chemin absolu depuis la racine du site
-    wavesurfer.load('/BetweenIntelligences/podcasts/IA_War.mp3');
-
-    const playBtn = document.getElementById('playPause');
-    playBtn.disabled = true;
-
-    wavesurfer.on('ready', () => {
-      playBtn.disabled = false;
-    });
-
-    playBtn.addEventListener('click', () => {
-      wavesurfer.playPause();
-    });
-
-    wavesurfer.on('play', () => {
-      playBtn.textContent = '⏸ Pause';
-    });
-
-    wavesurfer.on('pause', () => {
-      playBtn.textContent = '▶️ Lecture';
-    });
-
-    wavesurfer.on('finish', () => {
-      playBtn.textContent = '▶️ Lecture';
-    });
-  });
-</script>
-
-Accès à l'ensemble du dossier : [Expériences | Loss of Control](../xp/lossofcontrol/1.resume.fr.md)
-
----
-
-## 🎧 Podcast "AI War - 3/8"
-
-<div id="waveform" style="width: 100%; height: 96px; margin-bottom: 1em; background: #f4f4f4;"></div>
-
-<div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <button id="playPause"
-          style="padding: 10px 16px; border: none; background-color: #1abc9c; color: white; border-radius: 4px; cursor: pointer;">
-    ▶️ Lecture
-  </button>
-  <span id="timeDisplay" style="font-family: monospace; color: #555;">00:00 / 00:00</span>
+### Episode 3/8
+<div id="wf3" style="width:100%; height:96px; margin-bottom:8px; background:#f4f4f4;"></div>
+<div style="display:flex; align-items:center; gap:1em; margin-bottom:16px;">
+  <button id="btn3" style="padding:8px 16px;background:#1abc9c;color:white;border:none;border-radius:4px;cursor:pointer;">▶️ Lecture</button>
+  <span id="time3" style="font-family:monospace;color:#555;">00:00 / 00:00</span>
 </div>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const wavesurfer = WaveSurfer.create({
-      container: '#waveform',
+document.addEventListener("DOMContentLoaded", function() {
+
+  // fonction générique
+  function setupPlayer(containerID, btnID, timeID, audioPath) {
+    const wf = WaveSurfer.create({
+      container: '#' + containerID,
       waveColor: '#ddd',
       progressColor: '#1abc9c',
       height: 96,
@@ -74,51 +28,42 @@ Accès à l'ensemble du dossier : [Expériences | Loss of Control](../xp/lossofc
       barWidth: 2,
       cursorColor: '#333'
     });
+    wf.load(audioPath);
 
-    // ✅ URL à adapter selon ton contexte
-    wavesurfer.load('/BetweenIntelligences/podcasts/IA_War2.mp3');
+    const btn = document.getElementById(btnID);
+    const timeElem = document.getElementById(timeID);
+    btn.disabled = true;
 
-    const playBtn = document.getElementById('playPause');
-    const timeDisplay = document.getElementById('timeDisplay');
-    playBtn.disabled = true;
-
-    // Formatage mm:ss ou hh:mm:ss
-    function formatTime(seconds) {
-      const h = Math.floor(seconds / 3600);
-      const m = Math.floor((seconds % 3600) / 60);
-      const s = Math.floor(seconds % 60);
-      return (h > 0 ? `${h.toString().padStart(2, '0')}:` : '') +
-             `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    function formatTime(sec) {
+      const h = Math.floor(sec / 3600),
+            m = Math.floor((sec % 3600) / 60),
+            s = Math.floor(sec % 60);
+      return (h > 0 ? `${h.toString().padStart(2,'0')}:` : '') +
+             `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
+    }
+    function update() {
+      timeElem.textContent = `${formatTime(wf.getCurrentTime())} / ${formatTime(wf.getDuration())}`;
     }
 
-    function updateTime() {
-      const current = wavesurfer.getCurrentTime();
-      const total = wavesurfer.getDuration();
-      timeDisplay.textContent = `${formatTime(current)} / ${formatTime(total)}`;
-    }
-
-    wavesurfer.on('ready', () => {
-      playBtn.disabled = false;
-      updateTime();
+    wf.on('ready', () => {
+      btn.disabled = false;
+      update();
+    });
+    wf.on('audioprocess', update);
+    wf.on('seek', update);
+    wf.on('play', () => btn.textContent = '⏸ Pause');
+    wf.on('pause', () => btn.textContent = '▶️ Lecture');
+    wf.on('finish', () => {
+      btn.textContent = '▶️ Lecture';
+      update();
     });
 
-    wavesurfer.on('audioprocess', updateTime);
-    wavesurfer.on('seek', updateTime);
-    wavesurfer.on('play', () => {
-      playBtn.textContent = '⏸ Pause';
-    });
+    btn.addEventListener('click', () => wf.playPause());
+    return wf;
+  }
 
-    wavesurfer.on('pause', () => {
-      playBtn.textContent = '▶️ Lecture';
-    });
-
-    wavesurfer.on('finish', () => {
-      playBtn.textContent = '▶️ Lecture';
-      updateTime();
-    });
-
-    playBtn.addEventListener('click', () => {
-      wavesurfer.playPause();
-    });
-  });
+  // initialisation
+  setupPlayer('wf1', 'btn1', 'time1', '/BetweenIntelligences/podcasts/IA_War1.mp3');
+  setupPlayer('wf3', 'btn3', 'time3', '/BetweenIntelligences/podcasts/IA_War3.mp3');
+});
 </script>
