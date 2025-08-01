@@ -12,6 +12,7 @@ pip install mkdocs-macros-plugin
 pip install mkdocs-glightbox
 pip install mkdocs-awesome-pages-plugin
 pip install mkdocs-blog-plugin
+pip install mkdocs-blogging-plugin
 
 
 # Utiliser mkdocs globalement

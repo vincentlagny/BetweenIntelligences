@@ -64,7 +64,7 @@ Avant de soumettre une PR :
 
 ## 📚 Ressources utiles
 
-- [Code de Conduite](./CODE_OF_CONDUCT.md)
+- [Code de Conduite](../CODE_OF_CONDUCT.md)
 
 ## 📬 Me contacter
 

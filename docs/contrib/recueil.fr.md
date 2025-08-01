@@ -9,7 +9,7 @@ Le recueil est désormais disponible en libre téléchargement. Il propose une e
 
 ---
 
-![couverture.png](assets/couverture.png)
+![couverture.png](../assets/couverture.png)
 
 ---
 

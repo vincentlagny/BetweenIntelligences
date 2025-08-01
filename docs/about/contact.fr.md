@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td style="width: 160px; vertical-align: top; padding-right: 20px;">
-  <img src="../assets/vincent.png" alt="Vincent Lagny" style="height: 120px; border-radius: 6px;">
+  <img src="../../assets/vincent.png" alt="Vincent Lagny" style="height: 120px; border-radius: 6px;">
 </td>
 <td style="vertical-align: top;">
 

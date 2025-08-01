@@ -5,6 +5,8 @@ author: Vincent Lagny
 theme:
   name: material
   language: fr
+  features:
+    - navigation.indexes
 
 plugins:
   - search:
@@ -22,17 +24,10 @@ plugins:
           name: Français
           default: true
           build: true
-  - blog:
-      blog_dir: blog
-      blog_toc: true
-  - macros
-  - tags
-  - awesome-pages    # Pour gérer l'ordre sans lister manuellement dans yml
-
 
 nav:
-  - Accueil: index.md
-  - Analyses:
+  - 🏠 Accueil: index.md
+  - 📊 Analyses:
       - Contexte :
         - Tensions sociétales actuelles : analyses/contexte/1.societe.md
         - Engouement multi-sectoriels : analyses/contexte/2.secteurs.md
@@ -59,7 +54,7 @@ nav:
           - Approche assurantielle : analyses/risques/2.assurantielle.md
           - Approche prospective : analyses/risques/3.prospective.md
           - Approche opérationnelle : analyses/risques/4.operative.md
-  - Acteurs:
+  - 🧑‍💼 Acteurs:
       - Dirigeants:
         - Ce qu'il faut savoir : acteurs/dirigeants/1.mustknow.md
         - Avantages et inconvénients : acteurs/dirigeants/2.procons.md
@@ -86,13 +81,18 @@ nav:
               - 1. Cartographier : acteurs/assurances/action/1.cartographier.md
               - 2. Garantir : acteurs/assurances/action/2.garantir.md
               - 2. Guider : acteurs/assurances/action/3.conseil.md
-  - À propos: about.md
-  - Recueil: recueil.md
-  - Glossaire: glossaire.md
-  - Contribuer: contribute.md
-  - Licence: licence.md
-  - NSD Labs: nsdlabs.md
-  - Contact: contact.md
+  - 📘 À propos:
+    - À propos: about/about.md
+    - NSD Labs: about/nsdlabs.md
+    - Glossaire: about/glossaire.md
+    - Contact: about/contact.md
+    - Licence: about/licence.md
+  - 🤝 Contributions:
+    - Recueil: contrib/recueil.md
+    - Contribuer: contrib/contribute.md
+    - Mises à jour: contrib/updates.md
+  - 📰 Actualités: news/blog.md
 
 extra_css:
   - assets/css/custom.css
+

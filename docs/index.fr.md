@@ -46,12 +46,6 @@ Demain exige du discernement, du courage, de l’humanité. L’IA ne nous deman
 
 ---
 
-*«I've seen things you people wouldn't believe.*  
-*Attack ships on fire off the shoulder of Orion.*  
-*I watched C-beams glitter in the dark near the Tannhäuser Gate.*  
-*All those moments will be lost in time, like tears in rain.*  
-*Time to die. »*
-
 *«J’ai vu tant de choses que vous, humains, ne pourriez pas croire.*  
 *De grands navires en feu surgissant de l’épaule d’Orion.*  
 *J’ai vu des rayons fabuleux, des rayons C, briller dans l’ombre de la porte de Tannhäuser.*  
@@ -65,7 +59,7 @@ D’après le roman *Do Androids Dream of Electric Sheep?*, de **Philip K. Dick*
 
 ---
 
-### Références
+## Références
 
 [^1]: Mesurées, selon les standards actuels (MMLU, BIG-Bench, etc.)
 

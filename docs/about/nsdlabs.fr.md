@@ -1,4 +1,4 @@
-![nsdlabs-rect.png](./assets/nsdlabs-rect.png)
+![nsdlabs-rect.png](../assets/nsdlabs-rect.png)
 ## Un laboratoire pour l’imprévisible.
 
 Never Stop Dreaming Labs naît à contre-courant, dans un monde où la performance relègue souvent la créativité et le rêve au second plan.

@@ -1,5 +1,5 @@
 
-Ce document est né d’un constat : l’essor rapide des intelligences artificielles – copilotes, systèmes autonomes, modèles génératifs – bouleverse nos repères techniques, juridiques et éthiques à un rythme inédit. Face à cette transformation, le monde de l’assurance ne peut se contenter d’adapter des produits existants. Il doit anticiper, accompagner et réinventer.
+Ce site est né d’un constat : l’essor rapide des intelligences artificielles – copilotes, systèmes autonomes, modèles génératifs – bouleverse nos repères techniques, juridiques et éthiques à un rythme inédit. Face à cette transformation, le monde de l’assurance ne peut se contenter d’adapter des produits existants. Il doit anticiper, accompagner et réinventer.
 
 Ce texte propose donc une démarche : poser les bases assurantielles d’un monde où les IA ne sont plus seulement des outils, mais des agents d’action, parfois critiques, parfois vulnérables, toujours interconnectés avec des vies humaines, des données sensibles, des environnements systémiques.
 
