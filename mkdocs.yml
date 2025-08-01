@@ -82,29 +82,6 @@ nav:
               - 1. Cartographier : acteurs/assurances/action/1.cartographier.md
               - 2. Garantir : acteurs/assurances/action/2.garantir.md
               - 2. Guider : acteurs/assurances/action/3.conseil.md
-  - 🧪 Expériences:
-      - Perte de contrôle:
-        - Résumé: xp/lossofcontrol/1.resume.md
-        - Introduction: xp/lossofcontrol/2.introduction.md
-        - Méthodologie: xp/lossofcontrol/3.methode.md
-        - Résultats:
-          - Compréhension: xp/lossofcontrol/4a.comprehension.md
-          - Pertinence: xp/lossofcontrol/4b.plausibilite.md
-          - Observation: xp/lossofcontrol/4c.observation.md
-          - Contraintes : xp/lossofcontrol/4d.contraintes.md
-          - Défense: xp/lossofcontrol/4e.defense.md
-          - Scénario extrême: xp/lossofcontrol/4f.extreme.md
-        - Analyse:
-            - Compréhension: xp/lossofcontrol/5a.comprehension.md
-            - Pertinence: xp/lossofcontrol/5b.plausibilite.md
-            - Observation: xp/lossofcontrol/5c.observation.md
-            - Contraintes : xp/lossofcontrol/5d.contraintes.md
-            - Défense: xp/lossofcontrol/5e.defense.md
-            - Scénario extrême: xp/lossofcontrol/5f.extreme.md
-        - Perspectives: xp/lossofcontrol/6.perspectives.md
-        - Conclusion: xp/lossofcontrol/7.conclusion.md
-        - Références: xp/lossofcontrol/8.references.md
-        - Annexes: xp/lossofcontrol/9.annexes.md
   - 📘 À propos:
     - À propos: about/about.md
     - NSD Labs: about/nsdlabs.md
@@ -115,8 +92,6 @@ nav:
     - Recueil: contrib/recueil.md
     - Contribuer: contrib/contribute.md
     - Mises à jour: contrib/updates.md
-  - 🎙️ Podcats: news/podcasts.md
-  - 🎬️ Videos: news/videos.md
   - 📰 Actualités: news/blog.md
 
 extra_css:
