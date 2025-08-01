@@ -386,6 +386,20 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/blog/"/>
     </url>
     <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/news/podcasts/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/podcasts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/podcasts/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/news/videos/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/videos/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/videos/"/>
+    </url>
+    <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/travaux/experience-1/</loc>
         <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -405,6 +419,370 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/1.resume/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/1.resume/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/1.resume/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/2.introduction/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/2.introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/2.introduction/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/3.methode/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/3.methode/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/3.methode/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4a.comprehension/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4a.comprehension/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4a.comprehension/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4b.plausibilite/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4b.plausibilite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4b.plausibilite/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4c.observation/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4c.observation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4c.observation/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4d.contraintes/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4d.contraintes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4d.contraintes/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4e.defense/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4e.defense/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4e.defense/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4f.extreme/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4f.extreme/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4f.extreme/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5.analyse/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5.analyse/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5.analyse/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5a.comprehension/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5a.comprehension/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5a.comprehension/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5b.plausibilite/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5b.plausibilite/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5b.plausibilite/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/6.perspectives/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/6.perspectives/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/6.perspectives/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/7.conclusion/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/7.conclusion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/7.conclusion/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/8.references/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/8.references/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/8.references/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/9.annexes/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/9.annexes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/9.annexes/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/003.Q1.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/003.Q1.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/003.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/004.Q1.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/004.Q1.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/004.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/005.Q1.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/005.Q1.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/005.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/006.Q1.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/006.Q1.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/006.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/007.Q1.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/007.Q1.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/007.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/008.Q1.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/008.Q1.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/008.Q1/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/10.Q2.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/10.Q2.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/10.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/11.Q2.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/11.Q2.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/11.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/12.Q2.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/12.Q2.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/12.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/14.Q2.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/14.Q2.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/14.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/15.Q2.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/15.Q2.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/15.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/16.Q2.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/16.Q2.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/16.Q2/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/18.Q3.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/18.Q3.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/18.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/19.Q3.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/19.Q3.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/19.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/20.Q3.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/20.Q3.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/20.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/21.Q3.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/21.Q3.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/21.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/22.Q3.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/22.Q3.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/22.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/23.Q3.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/23.Q3.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/23.Q3/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/25.Q4.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/25.Q4.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/25.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/26.Q4.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/26.Q4.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/26.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/27.Q4.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/27.Q4.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/27.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/28.Q4.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/28.Q4.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/28.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/29.Q4.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/29.Q4.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/29.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/30.Q4.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/30.Q4.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/30.Q4/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/32.Q5.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/32.Q5.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/32.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/33.Q5.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/33.Q5.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/33.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/34.Q5.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/34.Q5.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/34.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/35.Q5.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/35.Q5.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/35.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/36.Q5.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/36.Q5.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/36.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/37.Q5.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/37.Q5.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/37.Q5/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/39.Q6.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/39.Q6.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/39.Q6/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/40.Q6.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/40.Q6.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/40.Q6/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/41.Q6.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/41.Q6.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/41.Q6/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/42.Q6.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/42.Q6.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/42.Q6/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/43.Q6.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/43.Q6.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/43.Q6/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/44.Q6.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/44.Q6.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/44.Q6/"/>
     </url>
     <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/CODE_OF_CONDUCT/</loc>
@@ -792,6 +1170,20 @@
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/blog/"/>
     </url>
     <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/news/podcasts/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/podcasts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/podcasts/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/news/videos/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/news/videos/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/news/videos/"/>
+    </url>
+    <url>
         <loc>https://vincentlagny.github.io/BetweenIntelligences/en/travaux/experience-1/</loc>
         <lastmod>2025-08-01</lastmod>
         <changefreq>daily</changefreq>
@@ -811,5 +1203,369 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/travaux/"/>
         <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/travaux/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/1.resume/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/1.resume/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/1.resume/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/2.introduction/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/2.introduction/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/2.introduction/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/3.methode/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/3.methode/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/3.methode/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4a.comprehension/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4a.comprehension/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4a.comprehension/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4b.plausibilite/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4b.plausibilite/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4b.plausibilite/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4c.observation/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4c.observation/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4c.observation/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4d.contraintes/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4d.contraintes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4d.contraintes/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4e.defense/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4e.defense/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4e.defense/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4f.extreme/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/4f.extreme/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/4f.extreme/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5.analyse/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5.analyse/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5.analyse/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5a.comprehension/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5a.comprehension/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5a.comprehension/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5b.plausibilite/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/5b.plausibilite/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/5b.plausibilite/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/6.perspectives/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/6.perspectives/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/6.perspectives/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/7.conclusion/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/7.conclusion/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/7.conclusion/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/8.references/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/8.references/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/8.references/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/9.annexes/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/9.annexes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/9.annexes/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/003.Q1.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/003.Q1.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/003.Q1.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/004.Q1.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/004.Q1.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/004.Q1.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/005.Q1.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/005.Q1.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/005.Q1.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/006.Q1.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/006.Q1.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/006.Q1.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/007.Q1.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/007.Q1.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/007.Q1.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/008.Q1.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/008.Q1.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/008.Q1.DeepSeek/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/10.Q2.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/10.Q2.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/10.Q2.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/11.Q2.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/11.Q2.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/11.Q2.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/12.Q2.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/12.Q2.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/12.Q2.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/14.Q2.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/14.Q2.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/14.Q2.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/15.Q2.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/15.Q2.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/15.Q2.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/16.Q2.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/16.Q2.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/16.Q2.DeepSeek/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/18.Q3.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/18.Q3.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/18.Q3.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/19.Q3.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/19.Q3.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/19.Q3.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/20.Q3.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/20.Q3.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/20.Q3.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/21.Q3.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/21.Q3.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/21.Q3.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/22.Q3.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/22.Q3.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/22.Q3.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/23.Q3.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/23.Q3.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/23.Q3.DeepSeek/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/25.Q4.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/25.Q4.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/25.Q4.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/26.Q4.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/26.Q4.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/26.Q4.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/27.Q4.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/27.Q4.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/27.Q4.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/28.Q4.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/28.Q4.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/28.Q4.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/29.Q4.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/29.Q4.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/29.Q4.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/30.Q4.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/30.Q4.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/30.Q4.DeepSeek/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/32.Q5.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/32.Q5.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/32.Q5.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/33.Q5.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/33.Q5.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/33.Q5.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/34.Q5.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/34.Q5.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/34.Q5.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/35.Q5.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/35.Q5.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/35.Q5.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/36.Q5.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/36.Q5.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/36.Q5.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/37.Q5.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/37.Q5.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/37.Q5.DeepSeek/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/39.Q6.Chat/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/39.Q6.Chat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/39.Q6.Chat/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/40.Q6.Mistral/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/40.Q6.Mistral/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/40.Q6.Mistral/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/41.Q6.Grok/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/41.Q6.Grok/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/41.Q6.Grok/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/42.Q6.Claude/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/42.Q6.Claude/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/42.Q6.Claude/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/43.Q6.Gemini/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/43.Q6.Gemini/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/43.Q6.Gemini/"/>
+    </url>
+    <url>
+        <loc>https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/44.Q6.DeepSeek/</loc>
+        <lastmod>2025-08-01</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://vincentlagny.github.io/BetweenIntelligences/en/xp/lossofcontrol/transcripts/44.Q6.DeepSeek/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://vincentlagny.github.io/BetweenIntelligences/xp/lossofcontrol/transcripts/44.Q6.DeepSeek/"/>
     </url>
 </urlset>
