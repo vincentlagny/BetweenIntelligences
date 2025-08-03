@@ -1,0 +1,105 @@
+site_name: Between Intelligences
+site_url: https://vincentlagny.github.io/BetweenIntelligences/
+author: Vincent Lagny
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.indexes
+
+plugins:
+  - search:
+      lang:
+        - fr
+        - en
+  - macros
+  - i18n:
+      docs_structure: suffix
+      reconfigure_material: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          default: true
+          build: true
+
+nav:
+  - 🏠 Accueil: index.md
+  - 📊 Analyses:
+      - Contexte :
+        - Tensions sociétales actuelles : analyses/contexte/1.societe.md
+        - Engouement multi-sectoriels : analyses/contexte/2.secteurs.md
+        - Renouveau spirituel : analyses/contexte/3.spirituel.md
+        - Actions du législateur : analyses/contexte/4.legislation.md
+        - Impacts géopolitiques : analyses/contexte/5.geopolitique.md
+        - Inégalités sociales : analyses/contexte/6.societe.md
+        - Les risques de détournements : analyses/contexte/7.detournements.md
+        - Vers une personnalité numérique : analyses/contexte/8.juridique.md
+        - Synthèse : analyses/contexte/9.synthese.md
+      - Situation Actuelle :
+          - L'Industrie de l'IA : analyses/actuel/1.industrie.md
+          - Modes de consommation : analyses/actuel/2.consommation.md
+          - Gouvernance IA EU/FR : analyses/actuel/3.gouvernance.md
+      - Evolutions attendues :
+          - Super-Intelligence : analyses/evolutions/1.acceleration.md
+          - Androïdes : analyses/evolutions/2.androides.md
+          - Dégradation de la prédiction : analyses/evolutions/3.prediction.md
+          - Cadre de responsabilité algorithmique : analyses/evolutions/4.accountability.md
+          - Un niveau de conscience : analyses/evolutions/5.conscience.md
+          - Souffrances artificielles ? : analyses/evolutions/6.prejudice.md
+      - Typologie des risques :
+          - Approches croisées : analyses/risques/1.croisement.md
+          - Approche assurantielle : analyses/risques/2.assurantielle.md
+          - Approche prospective : analyses/risques/3.prospective.md
+          - Approche opérationnelle : analyses/risques/4.operative.md
+  - 🧑‍💼 Acteurs:
+      - Dirigeants:
+        - Ce qu'il faut savoir : acteurs/dirigeants/1.mustknow.md
+        - Avantages et inconvénients : acteurs/dirigeants/2.procons.md
+        - Kit d'aide à la décision : acteurs/dirigeants/3.kit.md
+        - Cybersécurité : acteurs/dirigeants/4.cyber.md
+      - Assurances :
+          - Introduction : acteurs/assurances/1.introduction.md
+          - Enjeux :
+            - Tensions assurantielles régionales : acteurs/assurances/2.regions.md
+            - Responsabilité Ethique : acteurs/assurances/5.ethique.md
+            - Cadre règlementaire : acteurs/assurances/6.legislation.md
+            - Marchés publics : acteurs/assurances/7.marchespublics.md
+          - Stratégie Assurantielle :
+            - Axes : acteurs/assurances/3.axes.md
+            - Couvertures : acteurs/assurances/4.couvertures.md
+          - Perspectives futures :
+              - Enjeux Sociétaux : acteurs/assurances/8.societe.md
+              - Cybercriminalité : acteurs/assurances/9.cyber.md
+              - Responsabilité émergente : acteurs/assurances/10.juridique.md
+              - Androïdes : acteurs/assurances/11.androides.md
+              - Prédictibilité : acteurs/assurances/12.prediction.md
+              - Atteintes aux droits de l’IA : acteurs/assurances/14.prejudice.md
+          - Plan d'action :
+              - 1. Cartographier : acteurs/assurances/action/1.cartographier.md
+              - 2. Garantir : acteurs/assurances/action/2.garantir.md
+              - 2. Guider : acteurs/assurances/action/3.conseil.md
+  - 📘 À propos:
+    - À propos: about/about.md
+    - NSD Labs: about/nsdlabs.md
+    - Glossaire: about/glossaire.md
+    - Contact: about/contact.md
+    - Licence: about/licence.md
+  - 🤝 Contributions:
+    - Recueil: contrib/recueil.md
+    - Contribuer: contrib/contribute.md
+    - Mises à jour: contrib/updates.md
+  - 📰 Actualités: news/blog.md
+
+extra_css:
+  - assets/css/custom.css
+
+extra_javascript:
+  - https://unpkg.com/wavesurfer.js
+  - https://cdn.plot.ly/plotly-latest.min.js
+
+extra:
+  base_path: /BetweenIntelligences
