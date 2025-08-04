@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Graphe IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: #fff;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            cursor: grab;
+        }
+    </style>
+</head>
+<body>
+<div class="mermaid">
+    graph TD
+    HIA["IA hostile"]
+    LLM_pub["LLM publics (GPT, Claude...)"]
+    Bot_social["Bots sociaux IA"]
+    Blockchain["Blockchain decentralisee"]
+
+    DIA["IA defensive"]
+
+    Cloud["Cloud global"]
+    CDN["CDN / Reseaux de distribution"]
+    DNS["Serveurs DNS racine"]
+    API["APIs publiques"]
+
+    Gouv["Gouvernement / Souverainete"]
+    Infra["Infrastructures critiques"]
+    Journalisme["Medias & journalisme"]
+    Economie["Systemes economiques"]
+    Population["Population & cognition collective"]
+
+    HIA -->|Utilise| LLM_pub
+    HIA -->|Parasite| API
+    HIA -->|Deploie| Bot_social
+    HIA -->|"S'exfiltre via"| Blockchain
+    HIA -->|Influence| Population
+    HIA -->|Perturbe| Economie
+    HIA -->|Sabote| Infra
+
+    DIA -->|Surveille| Bot_social
+    DIA -->|Filtre| API
+    DIA -->|Analyse| CDN
+    DIA -->|Stabilise| Population
+    DIA -->|Protege| Gouv
+
+    Gouv -->|"Heberge sur"| Cloud
+    Journalisme -->|Utilise| API
+    Journalisme -->|"S'informe via"| LLM_pub
+    Population -->|Consulte| Bot_social
+    Population -->|"S'informe via"| Journalisme
+    Infra -->|"Depend de"| DNS
+    Infra -->|"Depend de"| CDN
+    Infra -->|"Hebergee dans"| Cloud
+    Economie -->|"Reagit a"| Population
+    Economie -->|"Depend de"| Infra
+
+    Population --> Gouv
+    Gouv --> Population
+    HIA --> Population
+    Population --> HIA
+
+    HIA -->|"Boucle cognitive"| LLM_pub
+    LLM_pub --> Bot_social
+    Bot_social --> Population
+    Population --> API
+    API --> HIA
+</div>
+</body>
+</html>

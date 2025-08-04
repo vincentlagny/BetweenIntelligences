@@ -14,6 +14,7 @@ plugins:
         - fr
         - en
   - macros
+  - mermaid2
   - i18n:
       docs_structure: suffix
       reconfigure_material: true
@@ -99,8 +100,18 @@ nav:
             - Pertinence: xp/lossofcontrol/5b.plausibilite.md
             - Observation: xp/lossofcontrol/5c.observation.md
             - Contraintes : xp/lossofcontrol/5d.contraintes.md
-            - Défense: xp/lossofcontrol/5e.defense.md
+            - Défense:
+                - Confrontation: xp/lossofcontrol/5e.defense.1.confrontation.md
+                - Désescalade: xp/lossofcontrol/5e.defense.2.desescalade.md
+                - Chronologie: xp/lossofcontrol/5e.defense.3.lignetemps.md
+                - Dépendances: xp/lossofcontrol/5e.defense.4.dependances.md
+                - Garde-fous: xp/lossofcontrol/5e.defense.5.gardefous.md
+                - Souveraineté: xp/lossofcontrol/5e.defense.6.souverainete.md
+                - Dilemme: xp/lossofcontrol/5e.defense.7.dilemme.md
+                - Analyse par IA: xp/lossofcontrol/5e.defense.8.parIA.md
+                - Conclusion: xp/lossofcontrol/5e.defense.10.conclusion.md
             - Scénario extrême: xp/lossofcontrol/5f.extreme.md
+            - Par IA: xp/lossofcontrol/5g.parIA.md
         - Perspectives: xp/lossofcontrol/6.perspectives.md
         - Conclusion: xp/lossofcontrol/7.conclusion.md
         - Références: xp/lossofcontrol/8.references.md
@@ -126,6 +137,12 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/wavesurfer.js
   - https://cdn.plot.ly/plotly-latest.min.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
 
 extra:
   base_path: /BetweenIntelligences
+
+markdown_extensions:
+  - attr_list

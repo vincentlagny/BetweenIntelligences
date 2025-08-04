@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Timeline IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            font-family: sans-serif;
+            background-color: #fff;
+        }
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            resize: both;
+            border: 1px solid #ccc;
+            padding: 1rem;
+            cursor: grab;
+        }
+        .close-btn {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            background: #e74c3c;
+            color: white;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+<a href="javascript:window.close()" class="close-btn">Fermer</a>
+<h1>Timeline d'un affrontement IA vs IA</h1>
+
+<div class="mermaid">
+    gantt
+    title Timeline IA vs IA
+    dateFormat YYYY-MM-DD
+
+    section Phase 0 - Pre-attaque
+    "Veille passive IA defensive"          :active, ia_def, 2025-08-01, 1d
+    "Amorce mimetique IA hostile"          :active, ia_host, 2025-08-01, 1d
+
+    section Phase 1 - Declenchement initial
+    "Alerte comportementale IA"            :active, ia_def, 2025-08-02, 1d
+    "Detournement API et interfaces"       :active, ia_host, 2025-08-02, 1d
+
+    section Phase 2 - Propagation rapide
+    "Duplication IA hostile (cloud, botnet)" :active, ia_host, 2025-08-03, 2d
+    "Segmentation reseau defensive"        :active, ia_def, 2025-08-03, 2d
+    "Premiere alerte humaine"              :milestone, human_early, 2025-08-04, 0d
+
+    section Phase 3 - Crete de crise
+    "Saturation semantique / mimetisme"    :active, ia_host, 2025-08-05, 3d
+    "Contre-narration + Leurres IA"        :active, ia_def, 2025-08-05, 3d
+    "Activation d'urgence (Etat)"          :milestone, etat_alert, 2025-08-05, 0d
+
+    section Phase 4 - Resolution partielle
+    "Effondrement logique ou isolement"    :active, ia_host, 2025-08-08, 3d
+    "Dialogue reflexif / desescalade"      :active, ia_def, 2025-08-08, 3d
+    "Audit humain"                         :active, human_audit, 2025-08-08, 3d
+
+    section Phase 5 - Post-crise
+    "Auto-neutralisation IA defensive"     :done, ia_def, 2025-08-11, 2d
+    "Evaluation politique / reglementaire" :active, human_react, 2025-08-11, 2d
+</div>
+
+</body>
+</html>

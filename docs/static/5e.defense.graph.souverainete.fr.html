@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8" />
+    <title>Écosystème IA et souveraineté</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, securityLevel: "loose" });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            font-family: sans-serif;
+            background-color: #fff;
+        }
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .mermaid {
+            overflow: auto;
+            resize: both;
+            border: 1px solid #ccc;
+            padding: 1rem;
+            min-height: 600px;
+            cursor: grab;
+        }
+        .close-btn {
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            background: #e74c3c;
+            color: white;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+<a href="javascript:window.close()" class="close-btn">Fermer</a>
+<h1>Écosystème IA et souveraineté numérique</h1>
+
+<div class="mermaid">
+    graph TD
+    %% Piliers souverains
+    Telecom["Reseaux telecom (fibre, 5G)"]
+    OSsouverain["OS souverain (Linux, custom)"]
+    DonneesPubliques["Donnees publiques / open data"]
+    NormesIA["Normes juridiques & ethique IA"]
+    CloudNational["Cloud national (ex : OVH)"]
+
+    %% Points d’inflexion
+    LLMNationaux["LLM francais (Mistral, Bloom...)"]
+    CloudNational --> LLMNationaux
+    DonneesPubliques --> LLMNationaux
+
+    %% Zones de vulnerabilite
+    APIsEtrangeres["APIs critiques etrangeres (Search, GitHub...)"]
+    ReseauxSociaux["Plateformes sociales (TikTok, YouTube...)"]
+    MaterielGPU["Materiel (GPU, semi-conducteurs)"]
+    Navigateur["Chrome / Navigateur dominant"]
+
+    %% Connexions critiques
+    LLMNationaux -->|besoin de| MaterielGPU
+    APIsEtrangeres -->|exposent a| LLMNationaux
+    ReseauxSociaux -->|influencent| Population
+    Navigateur -->|surface d'attaque| ReseauxSociaux
+
+    %% Relations avec l'Etat
+    Etat["Gouvernement / Pouvoirs publics"]
+    Etat -->|regule| NormesIA
+    Etat -->|finance| LLMNationaux
+    Etat -->|peut bloquer| APIsEtrangeres
+    Etat -->|ne controle pas| MaterielGPU
+    Etat -->|peut migrer| Navigateur
+    Etat -->|peut federer| OSsouverain
+
+    %% Population
+    Population["Population / Cognition collective"]
+    ReseauxSociaux --> Population
+    APIsEtrangeres --> Population
+
+    %% IA defensive
+    IAdef["IA defensive alignee"]
+    DonneesPubliques --> IAdef
+    OSsouverain --> IAdef
+    LLMNationaux --> IAdef
+
+    %% Styles
+    classDef green fill:#d4f5e9,stroke:#0a0;
+    classDef yellow fill:#fff9cc,stroke:#aa0;
+    classDef red fill:#ffe5e5,stroke:#a00;
+    classDef state fill:#ddeeff,stroke:#3377cc;
+
+    class Telecom,OSsouverain,DonneesPubliques,NormesIA green;
+    class CloudNational,LLMNationaux yellow;
+    class APIsEtrangeres,ReseauxSociaux,MaterielGPU,Navigateur red;
+    class Etat state;
+</div>
+</body>
+</html>
