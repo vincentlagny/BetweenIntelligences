@@ -101,13 +101,13 @@ nav:
             - Observation: xp/lossofcontrol/5c.observation.md
             - Contraintes : xp/lossofcontrol/5d.contraintes.md
             - Défense:
+                - Chronologie: xp/lossofcontrol/5e.defense.3.lignetemps.md
                 - Confrontation: xp/lossofcontrol/5e.defense.1.confrontation.md
                 - Désescalade: xp/lossofcontrol/5e.defense.2.desescalade.md
-                - Chronologie: xp/lossofcontrol/5e.defense.3.lignetemps.md
-                - Dépendances: xp/lossofcontrol/5e.defense.4.dependances.md
                 - Garde-fous: xp/lossofcontrol/5e.defense.5.gardefous.md
-                - Souveraineté: xp/lossofcontrol/5e.defense.6.souverainete.md
                 - Dilemme: xp/lossofcontrol/5e.defense.7.dilemme.md
+                - Dépendances: xp/lossofcontrol/5e.defense.4.dependances.md
+                - Souveraineté: xp/lossofcontrol/5e.defense.6.souverainete.md
                 - Analyse par IA: xp/lossofcontrol/5e.defense.8.parIA.md
                 - Conclusion: xp/lossofcontrol/5e.defense.10.conclusion.md
             - Scénario extrême: xp/lossofcontrol/5f.extreme.md
