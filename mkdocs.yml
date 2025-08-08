@@ -62,6 +62,12 @@ nav:
         - Avantages et inconvénients : acteurs/dirigeants/2.procons.md
         - Kit d'aide à la décision : acteurs/dirigeants/3.kit.md
         - Cybersécurité : acteurs/dirigeants/4.cyber.md
+      - Pouvoirs publics:
+          - Introduction: acteurs/institutionnels/introduction.fr.md
+          - Défense: acteurs/institutionnels/defense.fr.md
+          - Constitutionalité: acteurs/institutionnels/constitutionalite.fr.md
+          - Souveraineté: acteurs/institutionnels/souverainete.fr.md
+          - Dilemmes: acteurs/institutionnels/dilemmes.fr.md
       - Assurances :
           - Introduction : acteurs/assurances/1.introduction.md
           - Enjeux :
