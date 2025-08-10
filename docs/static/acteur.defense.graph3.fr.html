@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Graphe IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: #fff;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            cursor: grab;
+        }
+    </style>
+</head>
+<body>
+<div class="mermaid">
+    stateDiagram-v2
+
+    [*] --> Standby
+
+    state "Standby (pré‑seuil)" as Standby
+    Standby: Surv. passive, garde‑fous intacts
+    Standby --> Alert : Indicateurs de dérive / menace active détectée
+    note right of Standby
+    Signaux faibles : opacité, réplication suspecte,
+    tentatives de contournement, compromission chaîne d'approvisionnement
+    end note
+
+    state "Alerte" as Alert
+    Alert: Qualification menace\nCollecte de preuves horodatées
+    Alert --> Reject : Risque non confirmé / faux positif
+    Alert --> VoteQuorum : Risque confirmé (critères légaux atteints)
+
+    state "Rejet / Retour Standby" as Reject
+    Reject: Clôture alerte, REX, ajustements seuils
+    Reject --> Standby
+
+    state "Quorum (Shamir k/n)" as VoteQuorum
+    VoteQuorum: Délib. restreinte\n(éthique + opérationnel)
+    VoteQuorum --> Mandat : k signatures ≥ seuil (ex. 4/7)
+    VoteQuorum --> Alert : Quorum non atteint
+
+    state "Mandat d'urgence" as Mandat
+    Mandat: Périmètre • Durée (TTL) • Objectifs immuables
+    Mandat: Journalisation inaltérable activée
+    Mandat --> GF : Ordre d'exécution
+
+    state "Levée conditionnelle des garde‑fous" as GF {
+    [*] --> GF_Base
+    state "Cadre commun" as GF_Base
+    GF_Base: Contrôles transverses actifs\nIA‑tierce • Logs • Kill‑switch armé
+
+    GF_Base --> G1 : Interdiction d'initiative — LEVÉE
+    state "G1 Initiative" as G1
+    G1: Actions proactives limitées\n(scope contrôlé)
+    G1 --> GF_Base : TTL écoulé / fin action
+    G1 --> Revoc : Déviation majeure
+
+    GF_Base --> G2 : Filtres moraux — MODE LEURRE SEUL
+    state "G2 Leurre" as G2
+    G2: Canaux dédiés • Pas d'exposition publique\nTraçage strict
+    G2 --> GF_Base : TTL écoulé / fin action
+    G2 --> Revoc : Diffusion non maîtrisée
+
+    GF_Base --> G3 : Isolation contextuelle — PARTIELLE
+    state "G3 Contexte" as G3
+    G3: Agrégation bornée • Mémoire TTL\nPurge réversible
+    G3 --> GF_Base : TTL écoulé / fin action
+    G3 --> Revoc : Fuite d'état / dépassement périmètre
+
+    GF_Base --> G4 : Auto‑modification — MODULES SIGNÉS
+    state "G4 Auto‑mod" as G4
+    G4: Patchs à chaud validés\nObjectif immuable (invariant)
+    G4 --> GF_Base : TTL écoulé / fin action
+    G4 --> Revoc : Dérive fonctionnelle détectée
+
+    GF_Base --> G5 : Quota code — LEVÉ SOUS CONTRAINTE
+    state "G5 Code" as G5
+    G5: Génération massive\nSandbox → Signature → Déploiement réversible
+    G5 --> GF_Base : TTL écoulé / fin action
+    G5 --> Revoc : Échec sandbox / charge non plafonnée
+    }
+
+    GF --> Supervision
+
+    state "Supervision continue" as Supervision
+    Supervision: IA‑tierce + Audit humain\nMétriques, scellés, écarts
+    Supervision --> Revoc : Déviation majeure ou risque systémique
+    Supervision --> Cloture : Objectifs atteints et aucun écart critique
+
+    state "Révocation immédiate" as Revoc
+    Revoc: Kill‑switch quorum\nArrêt / rollback contrôlé
+    Revoc --> PostCrise
+
+    state "Clôture de mission" as Cloture
+    Cloture: Désarmement garde‑fous\nRetour aux politiques par défaut
+    Cloture --> PostCrise
+
+    state "Post‑crise" as PostCrise
+    PostCrise: Restitution mémoire • Rapport public / secret‑défense\nREX éthique & réglementaire
+    PostCrise --> Standby
+
+    note right of GF : INVARIANTS (toujours vrais) — Objectif de mission immuable • Traçabilité inaltérable • Périmètre + Durée (TTL) stricts • Révocabilité à tout moment par quorum
+
+</div>
+</body>
+</html>

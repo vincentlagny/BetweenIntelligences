@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Graphe IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: #fff;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            cursor: grab;
+        }
+    </style>
+</head>
+<body>
+<div class="mermaid">
+
+    sequenceDiagram
+    autonumber
+    participant POL as Autorité politique (Quorum)
+    participant DEF as IA défensive mimétique
+    participant SUP as IA-tierce de supervision
+    participant AUD as Cellule Audit & Éthique
+    participant INF as Infrastructures critiques
+    participant LOG as Journal immuable
+    participant KILL as Kill-switch (quorum)
+
+    Note over POL,DEF: Déclencheur : indicateurs de dérive / menace active
+    POL->>POL: Quorum multisignature (ex. Shamir 4/7)
+    POL->>DEF: Mandat d'urgence (périmètre, durée, objectifs)
+    POL->>SUP: Instruction de supervision renforcée
+    POL->>AUD: Activation du suivi éthique & opérationnel
+
+    par Levée conditionnelle des 5 garde-fous
+    POL->>DEF: 1) Interdiction d’initiative — LEVÉE (temporaire)
+    DEF->>INF: Actions proactives limitées (containment/isolation)
+    DEF-->>LOG: Log horodaté
+
+    POL->>DEF: 2) Filtres moraux — MODE “leurre stratégique” SEULEMENT
+    DEF->>INF: Leurre/Deception contrôlée (canaux dédiés)
+    SUP-->>DEF: Garde-fous runtime (seuils, canaux autorisés)
+    DEF-->>LOG: Log horodaté
+
+    POL->>DEF: 3) Isolation contextuelle — LEVÉE PARTIELLE
+    DEF->>DEF: Agrégation contextuelle bornée (mémoire TTL, réversible)
+    SUP-->>DEF: Limitation d’état + purge programmée
+    DEF-->>LOG: Log horodaté
+
+    POL->>DEF: 4) Auto-modification — AUTORISÉE (modules signés)
+    DEF->>DEF: Chargement patch/extension (objectif immuable)
+    SUP-->>DEF: Vérification de signature & liste blanche
+    DEF-->>LOG: Log horodaté
+
+    POL->>DEF: 5) Quota de génération de code — LEVÉE SOUS CONTRAINTE
+    DEF->>DEF: Génération massive de contre-mesures
+    DEF->>SUP: Envoi vers sandbox d’exécution & tests
+    SUP->>DEF: Validation + Signature numérique obligatoire
+    DEF->>INF: Déploiement limité & réversible
+    DEF-->>LOG: Log horodaté
+    end
+
+    loop Supervision continue
+    SUP->>DEF: Monitoring (déviations, dépassement mandat)
+    AUD->>SUP: Revue éthique & opérationnelle (en temps rapproché)
+    SUP-->>LOG: Scellés d’observation & métriques
+    end
+
+    alt Déviation majeure / Risque systémique
+    SUP->>KILL: Recommandation de révocation
+    AUD->>KILL: Validation éthique
+    POL->>KILL: Confirmation quorum
+    KILL->>DEF: Révocation immédiate (arrêt/rollback)
+    else Fin de mission conforme
+    SUP->>DEF: Ordre de clôture
+    end
+
+    DEF->>LOG: Restitution de mémoire & rapport final
+    DEF->>DEF: Auto-effacement / rollback contrôlé
+    LOG->>POL: Dossier d’audit complet (post-mortem)
+    LOG->>AUD: Traçabilité publique/contrôlée (selon secret-défense)
+
+    Note over POL,AUD: Post‑crise : évaluation, recommandations, ajustements réglementaires
+
+</div>
+</body>
+</html>

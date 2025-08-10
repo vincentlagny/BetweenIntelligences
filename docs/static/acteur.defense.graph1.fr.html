@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Graphe IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: #fff;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            cursor: grab;
+        }
+    </style>
+</head>
+<body>
+<div class="mermaid">
+
+    flowchart TD
+
+    %% --- Styles ---
+    classDef action fill:#E3F2FD,stroke:#1E88E5,color:#0D47A1
+    classDef control fill:#E8F5E9,stroke:#43A047,color:#1B5E20
+    classDef risk fill:#FFF3E0,stroke:#FB8C00,color:#E65100
+    classDef gate fill:#F3E5F5,stroke:#8E24AA,color:#4A148C
+    classDef store fill:#FFFDE7,stroke:#F9A825,color:#3E2723
+
+    %% --- Déclenchement global : nœuds ---
+    TRIGGER["Seuil d'alerte atteint<br>(indicateurs de dérive, menace active)"]
+    POL["Quorum multisignature<br>(ex. Shamir 4/7)"]
+    MANDAT["Mandat d'urgence limité<br>(périmètre + durée + objectifs)"]
+
+
+    %% --- Garde-fous : nœuds de décision ---
+    subgraph "Garde-fous critiques"
+    direction TB
+    G1[Interdiction d'initiative]:::gate
+    G2[Filtres moraux stricts]:::gate
+    G3[Isolation contextuelle]:::gate
+    G4[Auto-modification]:::gate
+    G5[Quota de génération de code]:::gate
+    end
+
+    %% --- Contrôles transverses : nœuds ---
+    LOGS["Journalisation inaltérable<br>horodatée"]:::store
+    IA3["Supervision IA-tierce indépendante"]:::control
+    AUDIT["Audit humain continu<br>(éthique + opérationnel)"]:::control
+    REVOC["Révocabilité instantanée<br>(kill-switch quorum)"]:::control
+
+    %% --- Pipelines spécifiques : nœuds d action risque ---
+    A1["Actions proactives limitées<br>(containment, isolation rapide)"]:::action
+    A2["Génération de leurres contrôlés<br>(fausses pistes, appâts)"]:::action
+    R2["Risque : diffusion non maîtrisée"]:::risk
+    A3["Agrégation contextuelle limitée<br>(mémoire bornée, TTL)"]:::action
+    A4["Patchs / extensions à chaud<br>(objectif immuable)"]:::action
+    R4["Risque : dérive fonctionnelle"]:::risk
+    A5["Génération massive de contre-mesures"]:::action
+    SBX["Sandbox d'exécution & tests"]:::control
+    SIGN["Signature numérique obligatoire"]:::control
+    DEP["Déploiement limité & réversible"]:::action
+
+
+    %% --- Clôture / Post-crise : nœuds ---
+    POST["Clôture de mission"]:::control
+    RESTIT["Restitution mémoire & rapport public"]:::store
+    AUTOFF["Auto-effacement / rollback contrôlé"]:::action
+
+    %% --- Liens : déclenchement ---
+    TRIGGER --> POL --> MANDAT
+
+    %% --- Liens : garde-fous -> pipelines ---
+    MANDAT --> G1
+    MANDAT --> G2
+    MANDAT --> G3
+    MANDAT --> G4
+    MANDAT --> G5
+
+    %% G1: Initiative
+    G1 -->|Levée temporaire| A1 --> IA3
+    A1 --> LOGS --> AUDIT --> REVOC
+
+    %% G2: Filtres moraux
+    G2 -->|"Mode leurre stratégique uniquement"| A2 --> IA3
+    A2 --> R2 --> REVOC
+    A2 --> LOGS --> AUDIT
+
+    %% G3: Isolation contextuelle
+    G3 -->|Levée partielle| A3 --> IA3
+    A3 --> LOGS --> AUDIT --> REVOC
+
+    %% G4: Auto-modification
+    G4 -->|Modules signés et validés| A4 --> IA3
+    A4 --> R4 --> REVOC
+    A4 --> LOGS --> AUDIT
+
+    %% G5: Quota de code
+    G5 -->|Levée sous contrainte| A5 --> SBX --> SIGN --> DEP --> IA3
+    DEP --> LOGS --> AUDIT --> REVOC
+
+    %% --- Clôture / Post-crise ---
+    IA3 --> POST
+    POST --> RESTIT
+    POST --> AUTOFF
+
+
+</div>
+</body>
+</html>

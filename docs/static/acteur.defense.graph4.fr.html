@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Graphe IA vs IA</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    <style>
+        body {
+            margin: 0;
+            padding: 2rem;
+            background: #fff;
+        }
+        .mermaid {
+            max-width: 100%;
+            overflow: auto;
+            cursor: grab;
+        }
+    </style>
+</head>
+<body>
+<div class="mermaid">
+
+    flowchart TD
+    A([Seuil post-franchi par IA hostile]) --> B{Évaluation par Conseil de Crise}
+    B -->|Menace réversible et éthique| C[Action IA mimétique autorisée]
+    B -->|Menace réversible mais éthiquement ambiguë| D[Débat accéléré Parlement + Conseil éthique]
+    D -->|Mandat obtenu| C
+    D -->|Mandat refusé| E[Activation de la clause de non-décision lucide]
+    B -->|Menace irréversible et non éthique| E
+
+    C --> F{Surveillance en temps réel}
+    F -->|Dérive détectée| G[Arrêt immédiat et retour de souveraineté]
+    F -->|Pas de dérive| H[Fin de crise et désactivation planifiée]
+
+    E --> I[Mesures passives renforcées : confinement, diplomatie, dissuasion non-IA]
+    I --> J[Documentation complète pour post-crise]
+
+    H --> J
+    G --> J
+
+</div>
+</body>
+</html>
