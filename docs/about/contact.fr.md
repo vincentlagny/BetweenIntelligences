@@ -22,9 +22,11 @@ J’ai délibérément adopté une approche <strong>pluridisciplinaire</strong> 
 Si vous souhaitez prolonger ce travail, contribuer à sa suite, ou simplement échanger, je vous invite à me contacter :<br>
 📧 <strong>vincent.lagny@gmail.com</strong><br>
 🔗 <a href="http://linkedin.com/in/vincentlagny"><strong>linkedin.com/in/vincentlagny</strong></a>
+
+
 <br/>
 <br/>
-<em><strong>Vincent Lagny</strong> est expert en cybersécurité, assurance des risques technologiques et gouvernance numérique. Il accompagne depuis plus de 30 ans les grandes organisations publiques et privées dans la maîtrise des systèmes critiques, l’évaluation des vulnérabilités complexes, et la conception de garanties innovantes face aux transformations numériques. Passionné par l’intelligence artificielle, il explore depuis plusieurs années les croisements entre IA, éthique, responsabilité et assurance, avec une approche systémique et prospective. Son ambition : <strong>mettre la technique au service d’un futur maîtrisé et partageable</strong>.</em>
+Vincent Lagny est un expert reconnu en cybersécurité, en gestion des risques technologiques et en gouvernance numérique. Fort de plus de trente ans d'expérience, il accompagne les grandes organisations publiques et privées dans la maîtrise des systèmes critiques, l'évaluation des vulnérabilités complexes et la conception de stratégies d'atténuation innovantes face aux transformations numériques. Passionné par l'intelligence artificielle, il explore depuis plusieurs années les interconnexions entre les technologies, nos sociétés et l'industrie, adoptant une approche systémique et prospective. Son ambition réside dans la mise au service de la technique pour l'édification d'un futur maîtrisé et partageable.
 
 </td>
 </tr>

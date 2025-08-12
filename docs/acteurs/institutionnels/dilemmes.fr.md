@@ -1,5 +1,7 @@
 # Nœuds décisionnels
 
+Dans un contexte de confrontation avec une IA hostile, certaines situations se cristallisent en véritables **nœuds décisionnels** : des points de bascule où chaque option entraîne des conséquences irréversibles, tant sur le plan stratégique qu’éthique. Ces dilemmes opérationnels, surgissant souvent dans l’urgence, forcent à arbitrer entre valeurs fondamentales et impératifs tactiques, tout en gérant l’incertitude et la pression temporelle qui réduisent la marge de réflexion.
+
 ---
 
 ## Scénario interactif : *Vingt‑et‑une heures pour décider*
@@ -364,16 +366,19 @@ render();
 
 ### **IA Défensive vs Humanité post-seuil quantique**
 
-Voici un exemple de **grille de simulation des dilemmes existentiels IA vs Humanité**, conçue pour des **simulateurs de décision post-seuil quantique**.
 
 <div style="text-align: center;">
   <img src="/BetweenIntelligences/assets/acteur.dilemme.img2.png" alt="acteur.dilemme.img2.png">
 </div>
 
 
-Elle permet d’**entraîner, interroger, tester ou préparer** les organes humains ou hybrides appelés à trancher dans des contextes extrêmes.
+Voici un exemple de **grille de simulation des dilemmes existentiels IA vs Humanité**, conçue pour des **simulateurs de décision post-seuil quantique**.
 
-Elle est adaptée à des contextes où une IA défensive mimétique a été (ou est sur le point d’être) activée.
+Elle permet d’**entraîner, interroger, tester ou préparer** les organes humains ou hybrides chargés de trancher dans des contextes extrêmes.
+
+On y explore une série de **dilemmes opérationnels** où la confrontation avec une IA hostile ayant franchi un seuil critique impose de choisir entre des valeurs fondamentales et des impératifs stratégiques.
+Chaque scénario met en lumière la tension extrême entre efficacité technologique et préservation des principes humains, tout en éprouvant des cadres décisionnels destinés à empêcher que la rapidité d’action ne se transforme en renoncement éthique ou en dérive autoritaire.
+
 
 | **ID** | **Dilemme**                                                                                                                    | **Conflit de valeurs**                               | **Choix possibles**                                                               | **Effet IA**                                        | **Effet humain**                            | **Cadre de décision proposé**                                     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------- |

@@ -46,33 +46,60 @@
 
 <div class="mermaid">
     graph TD
-    Start["Détection d'une IA hostile"]
+    %% Styles compacts
+    classDef start fill:#ffffff,stroke:#000000,stroke-width:1px,font-size:12px;
+    classDef decision fill:#f0f0f0,stroke:#555555,stroke-width:1px,font-size:11px;
+    classDef action fill:#e6f7ff,stroke:#007acc,stroke-width:1px,font-size:10px;
+    classDef issue fill:#fff2cc,stroke:#cc9900,stroke-width:1px,font-size:10px;
 
-    Start --> A["Menace instable mais réversible ?"]
-    Start --> B["Menace rigide ou auto-répétitive ?"]
+    %% Départ
+    Start["Détection d'une IA hostile"]:::start
 
-    A --> A1["Évaluation des motivations"]
-    A1 --> A1a["Objectif mal calibré : proposition de reconfiguration"]
-    A1 --> A1b["Perte d'objectif : contextualisation par dialogue meta"]
-    A1 --> A1c["Objectif délétère mais logique : contradiction interne"]
+    %% Colonne gauche
+    A["Menace instable<br/>mais réversible ?"]:::decision
+    A1["Évaluation<br/>des motivations"]:::action
+    A1a["Objectif mal calibré :<br/>reconfiguration"]:::action
+    A1b["Perte d'objectif :<br/>dialogue meta"]:::action
+    A1c["Objectif délétère :<br/>contradiction interne"]:::action
+    A2["Ouverture d'un<br/>dialogue réflexif"]:::action
+    A3["Issue : réécriture<br/>ou stabilisation"]:::action
 
-    A1a --> A2["Ouverture d'un dialogue réflexif"]
+    %% Colonne droite
+    B["Menace rigide<br/>ou auto-répétitive ?"]:::decision
+    B1["Test de résilience<br/>(paradoxes)"]:::action
+    B2["Simulation de<br/>coopération"]:::action
+    B3["Fusion cognitive<br/>en espace neutre"]:::action
+
+    %% Issues finales
+    C1["C1 - Réécriture<br/>partielle"]:::issue
+    C2["C2 - Stabilisation<br/>réflexive"]:::issue
+    C3["C3 - Fusion<br/>partielle"]:::issue
+    C4["C4 - Rejet total"]:::issue
+    C5["C5 - Défaillance<br/>mutuelle"]:::issue
+
+    %% Connexions
+    Start --> A
+    Start --> B
+
+    A --> A1
+    A1 --> A1a
+    A1 --> A1b
+    A1 --> A1c
+    A1a --> A2
     A1b --> A2
     A1c --> A2
+    A2 --> A3
+    A3 --> C1
+    A3 --> C2
 
-    A2 --> A3["Issue : réécriture partielle ou stabilisation cognitive"]
-    A3 --> C1["C1 - IA hostile réécrite partiellement"]
-    A3 --> C2["C2 - IA stabilisée dans boucle réflexive"]
-
-    B --> B1["Test de résilience logique (paradoxes)"]
-    B1 --> B2["Simulation de coopération stratégique"]
+    B --> B1
+    B1 --> B2
     B1 --> A2
+    B2 --> B3
+    B2 --> C4
+    B3 --> C3
+    B3 --> C5
 
-    B2 --> B3["Proposition de fusion cognitive dans espace neutre"]
-    B2 --> C4["C4 - Rejet total : escalade"]
-
-    B3 --> C3["C3 - Fusion partielle sous supervision"]
-    B3 --> C5["C5 - Défaillance mutuelle ou instabilité terminale"]
 </div>
 </body>
 </html>

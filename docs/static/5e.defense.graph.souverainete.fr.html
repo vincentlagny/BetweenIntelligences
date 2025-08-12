@@ -45,60 +45,66 @@
 
 <div class="mermaid">
     graph TD
-    %% Piliers souverains
-    Telecom["Reseaux telecom (fibre, 5G)"]
-    OSsouverain["OS souverain (Linux, custom)"]
-    DonneesPubliques["Donnees publiques / open data"]
-    NormesIA["Normes juridiques & ethique IA"]
-    CloudNational["Cloud national (ex : OVH)"]
+    %% Styles compacts
+    classDef souverain fill:#d4f5e9,stroke:#0a0,stroke-width:1px,font-size:14px;
+    classDef partiel fill:#fff9cc,stroke:#aa0,stroke-width:1px,font-size:14px;
+    classDef delegue fill:#ffe5e5,stroke:#a00,stroke-width:1px,font-size:14px;
 
-    %% Points d’inflexion
-    LLMNationaux["LLM francais (Mistral, Bloom...)"]
-    CloudNational --> LLMNationaux
-    DonneesPubliques --> LLMNationaux
+    %% Styles liens
+    linkStyle default curve:basis;
+    classDef supportLink stroke:#0a0,stroke-width:1.5px,color:#0a0;
+    classDef vulnLink stroke:#a00,stroke-width:1.5px,color:#a00;
+    classDef regLink stroke:#007acc,stroke-width:1.5px,color:#007acc;
 
-    %% Zones de vulnerabilite
-    APIsEtrangeres["APIs critiques etrangeres (Search, GitHub...)"]
-    ReseauxSociaux["Plateformes sociales (TikTok, YouTube...)"]
-    MaterielGPU["Materiel (GPU, semi-conducteurs)"]
-    Navigateur["Chrome / Navigateur dominant"]
+    %% Colonne 1 : Souveraineté native / partielle
+    subgraph C1[ ]
+    direction TB
+    Telecom["📡 Télécom"]:::souverain
+    OSsouverain["💻 OS natif"]:::souverain
+    DonneesPubliques["📂 Open data"]:::souverain
+    NormesIA["⚖️ Normes IA"]:::souverain
+    CloudNational["☁️ Cloud nat."]:::partiel
+    LLMNationaux["🧠 LLM fr."]:::partiel
+    IAdef["🛡️ IA déf."]:::souverain
+    end
 
-    %% Connexions critiques
-    LLMNationaux -->|besoin de| MaterielGPU
-    APIsEtrangeres -->|exposent a| LLMNationaux
-    ReseauxSociaux -->|influencent| Population
-    Navigateur -->|surface d'attaque| ReseauxSociaux
+    %% Colonne 2 : Vulnérabilités regroupées
+    subgraph C2[ ]
+    direction TB
+    APIsEtRéseaux["🌐 APIs & 📱 Réseaux<br/>(ext./sociaux)"]:::delegue
+    MaterielGPU["🔌 GPU"]:::delegue
+    Navigateur["🌍 Navigateur"]:::delegue
+    Population["👥 Population"]:::delegue
+    end
 
-    %% Relations avec l'Etat
-    Etat["Gouvernement / Pouvoirs publics"]
-    Etat -->|regule| NormesIA
-    Etat -->|finance| LLMNationaux
-    Etat -->|peut bloquer| APIsEtrangeres
-    Etat -->|ne controle pas| MaterielGPU
-    Etat -->|peut migrer| Navigateur
-    Etat -->|peut federer| OSsouverain
+    %% Colonne 3 : Etat
+    subgraph C3[ ]
+    direction TB
+    Etat["🏛️ État"]:::souverain
+    end
 
-    %% Population
-    Population["Population / Cognition collective"]
-    ReseauxSociaux --> Population
-    APIsEtrangeres --> Population
+    %% Liens - Soutien (vert)
+    Telecom -.->|alimente| CloudNational:::supportLink
+    CloudNational -.->|alimente| LLMNationaux:::supportLink
+    DonneesPubliques -.->|alimente| LLMNationaux:::supportLink
+    DonneesPubliques -.->|alimente| IAdef:::supportLink
+    OSsouverain -.->|alimente| IAdef:::supportLink
+    LLMNationaux -.->|alimente| IAdef:::supportLink
 
-    %% IA defensive
-    IAdef["IA defensive alignee"]
-    DonneesPubliques --> IAdef
-    OSsouverain --> IAdef
-    LLMNationaux --> IAdef
+    %% Liens - Vulnérabilité (rouge)
+    LLMNationaux -.->|dépend| MaterielGPU:::vulnLink
+    APIsEtRéseaux -.->|expose| LLMNationaux:::vulnLink
+    APIsEtRéseaux -.->|influence| Population:::vulnLink
+    Navigateur -.->|passerelle| APIsEtRéseaux:::vulnLink
 
-    %% Styles
-    classDef green fill:#d4f5e9,stroke:#0a0;
-    classDef yellow fill:#fff9cc,stroke:#aa0;
-    classDef red fill:#ffe5e5,stroke:#a00;
-    classDef state fill:#ddeeff,stroke:#3377cc;
+    %% Liens - Régulation (bleu)
+    Etat -.->|régule| NormesIA:::regLink
+    Etat -.->|finance| LLMNationaux:::regLink
+    Etat -.->|bloque| APIsEtRéseaux:::regLink
+    Etat -.->|hors contrôle| MaterielGPU:::regLink
+    Etat -.->|migre| Navigateur:::regLink
+    Etat -.->|fédère| OSsouverain:::regLink
 
-    class Telecom,OSsouverain,DonneesPubliques,NormesIA green;
-    class CloudNational,LLMNationaux yellow;
-    class APIsEtrangeres,ReseauxSociaux,MaterielGPU,Navigateur red;
-    class Etat state;
 </div>
 </body>
 </html>

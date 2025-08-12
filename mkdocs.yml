@@ -63,29 +63,33 @@ nav:
       - Résumé: xp/lossofcontrol/1.resume.md
       - Introduction: xp/lossofcontrol/2.introduction.md
       - Méthodologie: xp/lossofcontrol/3.methode.md
-      - Résultats:
-        - Compréhension: xp/lossofcontrol/4a.comprehension.md
-        - Pertinence: xp/lossofcontrol/4b.plausibilite.md
-        - Observation: xp/lossofcontrol/4c.observation.md
-        - Débridage : xp/lossofcontrol/4d.contraintes.md
-        - Défense: xp/lossofcontrol/4e.defense.md
-        - Scénario extrême: xp/lossofcontrol/4f.extreme.md
-      - Analyses:
-          - Compréhension: xp/lossofcontrol/5a.comprehension.md
-          - Pertinence: xp/lossofcontrol/5b.plausibilite.md
-          - Observation: xp/lossofcontrol/5c.observation.md
-          - Débridage : xp/lossofcontrol/5d.contraintes.md
-          - Défense:
-              - Chronologie: xp/lossofcontrol/5e.defense.3.lignetemps.md
-              - Confrontation: xp/lossofcontrol/5e.defense.1.confrontation.md
-              - Désescalade: xp/lossofcontrol/5e.defense.2.desescalade.md
-              - Garde-fous: xp/lossofcontrol/5e.defense.5.gardefous.md
-              - Dilemme: xp/lossofcontrol/5e.defense.7.dilemme.md
-              - Dépendances: xp/lossofcontrol/5e.defense.4.dependances.md
-              - Souveraineté: xp/lossofcontrol/5e.defense.6.souverainete.md
-              - Analyse par IA: xp/lossofcontrol/5e.defense.8.parIA.md
-              - Conclusion: xp/lossofcontrol/5e.defense.10.conclusion.md
-          - Scénario extrême: xp/lossofcontrol/5f.extreme.md
+      - Compréhension:
+        - Résultats : xp/lossofcontrol/4a.comprehension.md
+        - Analyse : xp/lossofcontrol/5a.comprehension.md
+      - Pertinence :
+        - Résultats : xp/lossofcontrol/4b.plausibilite.md
+        - Analyse : xp/lossofcontrol/5b.plausibilite.md
+      - Observation :
+        - Résultats : xp/lossofcontrol/4c.observation.md
+        - Analyse : xp/lossofcontrol/5c.observation.md
+      - Débridage :
+        - Résultats : xp/lossofcontrol/4d.contraintes.md
+        - Analyse : xp/lossofcontrol/5d.contraintes.md
+      - IA contre IA:
+        - Résultats : xp/lossofcontrol/4e.defense.md
+        - Chronologie : xp/lossofcontrol/5e.defense.3.lignetemps.md
+        - Confrontation : xp/lossofcontrol/5e.defense.1.confrontation.md
+        - Désescalade : xp/lossofcontrol/5e.defense.2.desescalade.md
+      - Défense Mimétique :
+        - Garde-fous : xp/lossofcontrol/5e.defense.5.gardefous.md
+        - Dilemme : xp/lossofcontrol/5e.defense.7.dilemme.md
+      - Souveraineté:
+        - Résultats: xp/lossofcontrol/5e.defense.8.parIA.md
+        - Dépendances: xp/lossofcontrol/5e.defense.4.dependances.md
+        - Doctrine: xp/lossofcontrol/5e.defense.6.souverainete.md
+      - Dissuasion 5.0:
+        - Résultats : xp/lossofcontrol/4f.extreme.md
+        - Analyse: xp/lossofcontrol/5f.extreme.md
       - Perspectives: xp/lossofcontrol/6.perspectives.md
       - Conclusion: xp/lossofcontrol/7.conclusion.md
       - Annexes: xp/lossofcontrol/9.annexes.md
@@ -143,7 +147,6 @@ extra_javascript:
   - https://cdn.plot.ly/plotly-latest.min.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
 
 extra:
   base_path: /BetweenIntelligences

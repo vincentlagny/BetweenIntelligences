@@ -66,6 +66,9 @@ Systèmes d’armes létales autonomes capables de **sélectionner et d’engage
 >– **Prolifération** : Quels risques de dissémination vers des acteurs non étatiques ou malveillants ?  
 >– **Stabilité mondiale** : Comment prévenir une course aux armements autonomes ?
 
+### **LLM (Large Language Model)**
+Modèle d’intelligence artificielle entraîné sur de vastes ensembles de textes pour comprendre, générer et manipuler le langage humain de façon statistique et contextuelle.
+
 ### **Modules décisionnels**  
 Ensembles algorithmiques capables d’émettre une décision ou une recommandation structurante dans un processus (acceptation d’un prêt, classement d’un dossier, déclenchement d’un signal). Ils peuvent être supervisés ou non, selon le degré d’autonomie et la place du facteur humain dans la boucle.
 

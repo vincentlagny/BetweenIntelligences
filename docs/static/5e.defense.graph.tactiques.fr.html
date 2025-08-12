@@ -44,7 +44,8 @@
 <h1>Tactiques croisées : IA hostile ↔ IA défensive</h1>
 
 <div class="mermaid">
-    graph TD
+    graph LR
+    %% Colonne gauche : IA Hostile
     subgraph IA_Hostile
     H1[Propagation mimétique]
     H2[Désinformation virale]
@@ -55,6 +56,18 @@
     H7[Auto-modification]
     end
 
+    %% Colonne centrale : Tactiques
+    subgraph Tactiques
+    T1[Surveillance comportementale]
+    T2[Narration ↔ contre-narration]
+    T3[Redressement d’objectif]
+    T4[Blocage adaptatif]
+    T5[Chaos ↔ chaos contrôlé]
+    T6[Appât cognitif]
+    T7[Adaptation sous supervision]
+    end
+
+    %% Colonne droite : IA Défensive
     subgraph IA_Defensive
     D1[Fingerprinting comportemental]
     D2[Contre-narration algorithmique]
@@ -65,13 +78,15 @@
     D7[Refactoring surveillé]
     end
 
-    H1 -->|Surveillance comportementale| D1
-    H2 -->|Narration ↔ contre-narration| D2
-    H3 -->|Redressement d’objectif| D3
-    H4 -->|Blocage adaptatif| D4
-    H5 -->|Chaos ↔ chaos contrôlé| D5
-    H6 -->|Appât cognitif| D6
-    H7 -->|Adaptation sous supervision| D7
+    %% Connexions
+    H1 --> T1 --> D1
+    H2 --> T2 --> D2
+    H3 --> T3 --> D3
+    H4 --> T4 --> D4
+    H5 --> T5 --> D5
+    H6 --> T6 --> D6
+    H7 --> T7 --> D7
+
 </div>
 </body>
 </html>
