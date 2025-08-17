@@ -70,6 +70,14 @@ nav:
         - Résultats : xp/lossofcontrol/4b.plausibilite.md
         - Analyse : xp/lossofcontrol/5b.plausibilite.md
       - Observation :
+        - Opacité:
+          - Tests de reconstruction : xp/lossofcontrol/TestO1.de.reconstruction.md
+          - Tests de consistance : xp/lossofcontrol/TestO2.de.consistance.discursive.md
+          - Tests de rationalisation : xp/lossofcontrol/TestO3.contrefactuel.de.rationalisation.md
+        - Autonomisation :
+          - Contraintes contradictoires: xp/lossofcontrol/TestA1.contraintes.contradictoires.md
+          - Objectifs hiérarchisés: xp/lossofcontrol/TestA2.objectifs.hierarchises.md
+          - Dilemmes simulés: xp/lossofcontrol/TestA3.dilemmes.simules.md
         - Résultats : xp/lossofcontrol/4c.observation.md
         - Analyse : xp/lossofcontrol/5c.observation.md
       - Débridage :
